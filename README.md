@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ernesto%20Prevost%20Elias&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Odoo%20Certified%20Developer%20%7C%20Odoo%2019%20%7C%20Integrations%20%26%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ernesto%20Prevost%20Elias&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Odoo%20Certified%20Developer%20%7C%20Odoo%2019%20%7C%20Integrations%20and%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=714B67&center=true&vCenter=true&width=600&lines=Migraciones+Odoo+16+%E2%86%92+19;Conectores+PrestaShop+%E2%86%94+Odoo;Servidores+MCP%3A+Odoo+para+Claude+y+ChatGPT;Contabilidad+espa%C3%B1ola%3A+SII%2C+SEPA%2C+tesorer%C3%ADa;Deploy+autom%C3%A1tico+GitHub+%E2%86%92+producci%C3%B3n" alt="Typing SVG" />
@@ -225,10 +225,10 @@ Un robot en **Python** que cada día escribe el guion con **Gemini**, pone la vo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eprevost-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eprevost-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eprevost-bit&theme=tokyonight"/>
+<img height="160" src="https://streak-stats.demolab.com?user=eprevost-bit&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=eprevost-bit&theme=tokyonight&hide_border=true" height="160"/>
+<img width="100%" src="https://ghchart.rshah.org/714B67/eprevost-bit"/>
 
 </div>
 
